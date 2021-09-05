@@ -1,1 +1,6 @@
-gamewith.jp##.ad-sp-header.u-mx-a.c-sp-leaderboard-ad
+[Adblock Plus 2.0]
+! Version: 20210905
+! Title: オレフィルター
+
+!gamewith
+gamewith.jp##.c-sp-leaderboard-ad u-mx-a ad-sp-header
