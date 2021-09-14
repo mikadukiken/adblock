@@ -3,4 +3,5 @@
 ! Title: オレフィルター
 
 !gamewith
-gamewith.jp##.c-sp-leaderboard-ad u-mx-a ad-sp-header
+gamewith.jp###div-gpt-ad-1574228211447-0
+
