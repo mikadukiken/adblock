@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 20210905
+! Version: 20210914
 ! Title: オレフィルター
 
 !gamewith
