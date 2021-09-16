@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20210914
-! Title: オレフィルター
+! Title: オレ非表示フィルター
+! License: CC0 (Public Domain)
 
 !gamewith
 gamewith.jp###div-gpt-ad-1574228211447-0
