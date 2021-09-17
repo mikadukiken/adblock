@@ -3,6 +3,7 @@
 ! Title: オレ非表示フィルター
 ! License: CC0 (Public Domain)
 
-!gamewith
-gamewith.jp###div-gpt-ad-1574228211447-0
+!wikiwiki.jp
+wikiwiki.jp###inbound-ad-container
+wikiwiki.jp###pc-bottom-parent-ad-container
 
