@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 20210916
+! Version: 20210917
 ! Title: オレ非表示フィルター
 ! License: CC0 (Public Domain)
 
