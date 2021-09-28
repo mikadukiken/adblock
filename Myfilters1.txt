@@ -1,6 +1,8 @@
-[Adblock Plus 2.0]
-! Version: 20210914
-! Title: オレドメインフィルター
+! Title: オレ用ドメインフィルター
+! Version: 20210929
 ! License: CC0 (Public Domain)
-
-||xxxxxx.com^
+! 
+!
+||doubleclick.net^
+||googleadservices.com^
+||pagead2.googlesyndication.com^
