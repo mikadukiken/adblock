@@ -5,6 +5,8 @@
 ! Expires: 7 hours (update frequency)
 ! Homepage: https://github.com/mikadukiken/AdBlock-Filters
 
+
+
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
