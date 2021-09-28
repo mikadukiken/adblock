@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: オレ用ドメインフィルター
+! Title: Mydomeinfilter
 ! Version: 20210929
 ! License: CC0 (Public Domain)
 ! Expires: 7 hours (update frequency)
