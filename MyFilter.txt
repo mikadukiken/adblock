@@ -8,3 +8,7 @@
 !wikiwiki.jp###pc-bottom-parent-ad-container
 wikiwiki.jp##div[id*="ad-container"]
 
+||doubleclick.net^
+||googleadservices.com^
+||pagead2.googlesyndication.com^
+
