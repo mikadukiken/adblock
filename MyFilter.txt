@@ -1,6 +1,5 @@
-[Adblock Plus 2.0]
+! Title: オレフィルター
 ! Version: 20211002
-! Title: オレ非表示フィルター
 ! License: CC0 (Public Domain)
 
 !wikiwiki.jp
