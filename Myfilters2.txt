@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 20210917
+! Version: 20211002
 ! Title: オレ非表示フィルター
 ! License: CC0 (Public Domain)
 
 !wikiwiki.jp
-wikiwiki.jp###inbound-ad-container
-wikiwiki.jp###pc-bottom-parent-ad-container
+!wikiwiki.jp###inbound-ad-container
+!wikiwiki.jp###pc-bottom-parent-ad-container
+wikiwiki.jp##div[id*="ad-container"]
 
