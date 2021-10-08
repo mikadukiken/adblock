@@ -5,7 +5,7 @@
 !wikiwiki.jp
 !wikiwiki.jp###inbound-ad-container
 !wikiwiki.jp###pc-bottom-parent-ad-container
-wikiwiki.jp##div[id*="ad-container"]
+wikiwiki.jp##div[id^="ad-container"]
 
 ||doubleclick.net^
 ||googleadservices.com^
