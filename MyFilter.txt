@@ -1,11 +1,11 @@
 ! Title: オレフィルター
-! Version: 20211002
+! Version: 20211019
 ! License: CC0 (Public Domain)
 
-!wikiwiki.jp
-!wikiwiki.jp###inbound-ad-container
-!wikiwiki.jp###pc-bottom-parent-ad-container
-wikiwiki.jp##div[id^="ad-container"]
+
+wikiwiki.jp##[id*="ad-container"]
+
+gamewith.jp##[id*="div-gpt-ad"]
 
 ||doubleclick.net^
 ||googleadservices.com^
