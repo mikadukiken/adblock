@@ -4,6 +4,7 @@
 
 wikiwiki.jp##[id*="ad-container"]
 gamewith.jp##[id*="div-gpt-ad"]
+atwiki.jp##[id*="div-gpt-ad-atwiki"]
 |img.gamewith.jp/bookmark/chrome.png
 ||doubleclick.net^
 ||googleadservices.com^
