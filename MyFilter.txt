@@ -10,7 +10,8 @@ atwiki.jp##[class*="ad_space"]
 atwiki.jp##[id="top-ads"]
 atwiki.jp##[id="middle-ads"]
 atwiki.jp##[id="footer-ads"]
-atwiki.jp##[id="in_article*-ads"]
+atwiki.jp##[id="in_article1-ads"]
+atwiki.jp##[id="in_article2-ads"]
 atwiki.jp##[id="overlay-ads"]
 img.gamewith.jp/bookmark/chrome.png
 ||doubleclick.net^
