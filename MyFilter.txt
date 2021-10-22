@@ -2,8 +2,6 @@
 ! Version: 20211022
 ! License: CC0 (Public Domain)
 
-wikiwiki.jp##[id*="ad-container"]
-gamewith.jp##[id*="div-gpt-ad"]
 atwiki.jp##[id*="div-gpt-ad-atwiki"]
 atwiki.jp##[id*="gpt-atwiki_sp_autoads"]
 atwiki.jp##[class*="ad_space"]
@@ -13,7 +11,12 @@ atwiki.jp##[id="footer-ads"]
 atwiki.jp###in_article1-ads
 atwiki.jp###in_article2-ads
 atwiki.jp##[id="overlay-ads"]
+
+gamewith.jp##[id*="div-gpt-ad"]
 img.gamewith.jp/bookmark/chrome.png
+
+wikiwiki.jp##[id*="ad-container"]
+
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
