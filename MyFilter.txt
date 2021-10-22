@@ -21,3 +21,4 @@ wikiwiki.jp##[id*="ad-container"]
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||nend.net^
+||amoad.com^
