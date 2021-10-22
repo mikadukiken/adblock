@@ -1,5 +1,5 @@
 ! Title: オレフィルター
-! Version: 202110121
+! Version: 20211022
 ! License: CC0 (Public Domain)
 
 wikiwiki.jp##[id*="ad-container"]
@@ -7,6 +7,11 @@ gamewith.jp##[id*="div-gpt-ad"]
 atwiki.jp##[id*="div-gpt-ad-atwiki"]
 atwiki.jp##[id*="gpt-atwiki_sp_autoads"]
 atwiki.jp##[class*="ad_space"]
+atwiki.jp##[id="top-ads"]
+atwiki.jp##[id="middle-ads"]
+atwiki.jp##[id="footer-ads"]
+atwiki.jp##[id="in_article*-ads"]
+atwiki.jp##[id="overlay-ads"]
 img.gamewith.jp/bookmark/chrome.png
 ||doubleclick.net^
 ||googleadservices.com^
