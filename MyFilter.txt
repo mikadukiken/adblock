@@ -21,7 +21,8 @@ appmedia.jp##[crass*="ad_sp_header"]
 
 yugioh-wiki.net##[id*="aswift"]
 
-m.yahoo.co.jp##[crass="RichSmartAppBanner"]
+m.yahoo.co.jp##[crass*="RichSmartAppBanner"]
+m.yahoo.co.jp##[id*="ssp_ydn"]
 im.c.yimg.jp/res/ydnstorage-media/
 |https://s.yimg.jp/images/yjtop-spweb/v10_6_19/_next/static/chunks/video.cf82318e60b7f4778653.js
 
