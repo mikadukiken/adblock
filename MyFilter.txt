@@ -26,3 +26,4 @@ appmedia.jp##[crass*="ad_sp_header"]
 ||amoad.com^
 ||ad-move.jp^
 ||ad-stir.com^
+||adroute.focas.jp^
