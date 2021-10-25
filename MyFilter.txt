@@ -1,5 +1,5 @@
 ! Title: オレフィルター
-! Version: 2021/10/24
+! Version: 2021/10/25
 ! License: CC0 (Public Domain)
 
 atwiki.jp##[id*="div-gpt-ad-atwiki"]
@@ -25,3 +25,4 @@ rd.ane.yahoo.co.jp/rd?ep=
 ||nend.net^
 ||amoad.com^
 ||ad-move.jp^
+||ad-stir.com^
