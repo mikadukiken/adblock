@@ -20,6 +20,8 @@ wikiwiki.jp##[id*="ad-container"]
 appmedia.jp##[crass*="ad_sp_header"]
 
 yugioh-wiki.net##[id*="aswift"]
+
+m.yahoo.co.jp##[crass="RichSmartAppBanner"]
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
