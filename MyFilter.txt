@@ -1,5 +1,5 @@
-! Title: オレフィルター
-! Version: 2021/10/26
+! Title: うどんフィルター
+! Version: 2021/10/27
 ! License: CC0 (Public Domain)
 
 atwiki.jp##[id*="div-gpt-ad-atwiki"]
