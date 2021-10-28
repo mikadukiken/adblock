@@ -37,3 +37,5 @@ im.c.yimg.jp/res/ydnstorage-media/
 ||adroute.focas.jp^
 ||adjust.com^
 ||i-mobile.co.jp^
+||zucks.net^
+||adpon.jp^
