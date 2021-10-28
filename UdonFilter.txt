@@ -39,3 +39,4 @@ im.c.yimg.jp/res/ydnstorage-media/
 ||i-mobile.co.jp^
 ||zucks.net^
 ||adpon.jp^
+||socdm.com^
