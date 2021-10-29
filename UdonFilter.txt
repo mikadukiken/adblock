@@ -44,3 +44,4 @@ im.c.yimg.jp/res/ydnstorage-media/
 ||fam-8.net^
 ||microad.net^
 ||glssp.net^
+||adtdp.com^
