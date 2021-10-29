@@ -45,3 +45,4 @@ im.c.yimg.jp/res/ydnstorage-media/
 ||microad.net^
 ||glssp.net^
 ||adtdp.com^
+||ads-pixiv.net^
