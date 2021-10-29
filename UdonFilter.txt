@@ -46,3 +46,4 @@ yimg.jp/images/yvpub/player/vamos/naked/latest/player.script.js
 ||glssp.net^
 ||adtdp.com^
 ||ads-pixiv.net^
+||gsspat.jp^
