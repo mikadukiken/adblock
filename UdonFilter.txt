@@ -3,6 +3,7 @@
 ! Version: 2021/10/29
 ! License: CC0 (Public Domain)
 
+!要素非表示フィルタ↓
 atwiki.jp##[id*="div-gpt-ad-atwiki"]
 atwiki.jp##[id*="gpt-atwiki_sp_autoads"]
 atwiki.jp##[class*="ad_space"]
@@ -12,22 +13,12 @@ atwiki.jp##[id="footer-ads"]
 atwiki.jp###in_article1-ads
 atwiki.jp###in_article2-ads
 atwiki.jp##[id="overlay-ads"]
-
 gamewith.jp##[id*="div-gpt-ad"]
 img.gamewith.jp/bookmark/chrome.png
-
 wikiwiki.jp##[id*="ad-container"]
-
 appmedia.jp##[crass*="ad_sp_header"]
-
 yugioh-wiki.net##[id*="aswift"]
-
-m.yahoo.co.jp##[crass*="RichSmartAppBanner"]
-m.yahoo.co.jp##[id*="ssp_ydn"]
-m.yahoo.co.jp##[crass*="YadsStreamSmall__link"]
-im.c.yimg.jp/res/ydnstorage-media/
-|https://s.yimg.jp/images/yjtop-spweb/v10_6_19/_next/static/chunks/video.cf82318e60b7f4778653.js
-
+!広告であろうドメイン↓
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
