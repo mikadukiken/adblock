@@ -20,6 +20,7 @@ appmedia.jp##[crass*="ad_sp_header"]
 yugioh-wiki.net##[id*="aswift"]
 yimg.jp/res/ydnstorage-media
 yimg.jp/images/yvpub/player/vamos/naked/latest/player.script.js
+
 !広告であろうドメイン↓
 ||doubleclick.net^
 ||googleadservices.com^
