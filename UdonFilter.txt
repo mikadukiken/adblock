@@ -40,3 +40,4 @@ im.c.yimg.jp/res/ydnstorage-media/
 ||zucks.net^
 ||adpon.jp^
 ||socdm.com^
+||fam-8.net^
