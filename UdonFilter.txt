@@ -17,7 +17,7 @@ gamewith.jp##[id*="div-gpt-ad"]
 img.gamewith.jp/bookmark/chrome.png
 wikiwiki.jp##[id*="ad-container"]
 appmedia.jp##[crass*="ad_sp_header"]
-yugioh-wiki.net##[id*="aswift"]
+yugioh-wiki.net##[class="adsbygoogle"]
 yimg.jp/res/ydnstorage-media
 yimg.jp/images/yvpub/player/vamos/naked/latest/player.script.js
 
