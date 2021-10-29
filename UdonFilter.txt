@@ -18,6 +18,7 @@ img.gamewith.jp/bookmark/chrome.png
 wikiwiki.jp##[id*="ad-container"]
 appmedia.jp##[crass*="ad_sp_header"]
 yugioh-wiki.net##[id*="aswift"]
+yimg.jp/res/ydnstorage-media
 !広告であろうドメイン↓
 ||doubleclick.net^
 ||googleadservices.com^
