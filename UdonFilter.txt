@@ -19,10 +19,15 @@ wikiwiki.jp##[id*="ad-container"]
 appmedia.jp##[crass*="ad_sp_header"]
 yugioh-wiki.net##[id*="aswift"]
 yugioh-wiki.net##[class="adsbygoogle"]
+h1g.jp##[align="center"]
+
+!ブロックフィルタ↓
+yads.c.yimg.jp/js/yads.js
 yimg.jp/res/ydnstorage-media
 yimg.jp/images/yvpub/player/vamos/naked/latest/player.script.js
-
-!広告であろうドメイン↓
+|https://yads.c.yimg.jp/js/yads-async.js
+|https://s.yimg.jp/images/advertising/common/js/iicon.min.js
+|https://s.yimg.jp/images/listing/tool/yads/ydn/creative/variable/panel.min.js
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
