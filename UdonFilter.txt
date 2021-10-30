@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/10/29
+! Version: 2021/10/30
 ! License: CC0 (Public Domain)
 
 !要素非表示フィルタ↓
@@ -46,3 +46,4 @@ yimg.jp/images/yvpub/player/vamos/naked/latest/player.script.js
 ||adtdp.com^
 ||ads-pixiv.net^
 ||gsspat.jp^
+||uncn.jp^
