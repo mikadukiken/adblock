@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/10/30
+! Version: 2021/10/31
 ! License: CC0 (Public Domain)
 
 !要素非表示フィルタ↓
@@ -21,6 +21,7 @@ yugioh-wiki.net##[id*="aswift"]
 yugioh-wiki.net##[class="adsbygoogle"]
 h1g.jp##[align="center"]
 m.yahoo.co.jp##[class=RichSmartAppBanner__link]
+gamewith.jp##[class=ad-header-creative-wrapper]
 
 !ブロックフィルタ↓
 yads.c.yimg.jp/js/yads*.js
@@ -28,6 +29,7 @@ yimg.jp/res/ydnstorage-media
 yimg.jp/images/yvpub/player/vamos/naked/latest/player.script.js
 |https://s.yimg.jp/images/advertising/common/js/iicon.min.js
 |https://s.yimg.jp/images/listing/tool/yads/ydn/creative/variable/panel.min.js
+gamewith.jp/ad/headercreative/
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
