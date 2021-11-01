@@ -52,3 +52,4 @@ gamewith.jp/ad/headercreative/
 ||uncn.jp^
 ||logly.co.jp^
 ||speee-ad.akamaized.net^
+||adservice.google.com^
