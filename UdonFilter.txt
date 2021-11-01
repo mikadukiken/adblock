@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/10/31
+! Version: 2021/11/01
 ! License: CC0 (Public Domain)
 
 !要素非表示フィルタ↓
@@ -51,3 +51,4 @@ gamewith.jp/ad/headercreative/
 ||gsspat.jp^
 ||uncn.jp^
 ||logly.co.jp^
+||speee-ad.akamaized.net^
