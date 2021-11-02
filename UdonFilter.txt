@@ -14,7 +14,6 @@ atwiki.jp###in_article1-ads
 atwiki.jp###in_article2-ads
 atwiki.jp##[id="overlay-ads"]
 gamewith.jp##[id*="div-gpt-ad"]
-img.gamewith.jp/bookmark/chrome.png
 wikiwiki.jp##[id*="ad-container"]
 appmedia.jp##[crass*="ad_sp_header"]
 yugioh-wiki.net##[id*="aswift"]
@@ -30,6 +29,9 @@ yimg.jp/images/yvpub/player/vamos/naked/latest/player.script.js
 |https://s.yimg.jp/images/advertising/common/js/iicon.min.js
 |https://s.yimg.jp/images/listing/tool/yads/ydn/creative/variable/panel.min.js
 gamewith.jp/ad/headercreative/
+googleadservices.com/pagead/
+youtube.com/pagead/
+img.gamewith.jp/bookmark/chrome.png
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
