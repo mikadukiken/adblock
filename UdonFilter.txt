@@ -22,6 +22,7 @@ h1g.jp##[align="center"]
 m.yahoo.co.jp##[class=RichSmartAppBanner__link]
 gamewith.jp##[class=ad-header-creative-wrapper]
 game8.jp##[class^="ad-wrapper"]
+fnjpnews.com##[class="diver_ad"]
 
 !ブロックフィルタ↓
 yads.c.yimg.jp/js/yads*.js
