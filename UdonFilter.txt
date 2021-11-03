@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/11/02
+! Version: 2021/11/03
 ! License: CC0 (Public Domain)
 
 !要素非表示フィルタ↓
@@ -23,6 +23,7 @@ m.yahoo.co.jp##[class=RichSmartAppBanner__link]
 gamewith.jp##[class=ad-header-creative-wrapper]
 game8.jp##[class^="ad-wrapper"]
 fnjpnews.com##[class="diver_ad"]
+gendai.ismedia.jp##[class="adtag"]
 
 !ブロックフィルタ↓
 yads.c.yimg.jp/js/yads*.js
