@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/11/03
+! Version: 2021/11/04
 ! License: CC0 (Public Domain)
 
 !要素非表示フィルタ↓
@@ -24,6 +24,8 @@ gamewith.jp##[class=ad-header-creative-wrapper]
 game8.jp##[class^="ad-wrapper"]
 fnjpnews.com##[class="diver_ad"]
 gendai.ismedia.jp##[class="adtag"]
+4gamer.net##[class="top_ad"]
+4gamer.net##[class="large_banner"]
 
 !ブロックフィルタ↓
 yads.c.yimg.jp/js/yads*.js
@@ -35,6 +37,7 @@ gamewith.jp/ad/headercreative/
 googleadservices.com/pagead/
 youtube.com/pagead/
 img.gamewith.jp/bookmark/chrome.png
+youtube.com/s/player/9216d1f7/player-plasma-ias-phone-ja_JP.vflset/ad.js
 ||doubleclick.net^
 ||googleadservices.com^
 ||pagead2.googlesyndication.com^
@@ -58,3 +61,5 @@ img.gamewith.jp/bookmark/chrome.png
 ||logly.co.jp^
 ||speee-ad.akamaized.net^
 ||adservice.google.com^
+||sp.gmossp-sp.jp^
+||ds.advg.jp^
