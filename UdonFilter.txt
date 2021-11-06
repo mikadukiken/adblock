@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/11/05
+! Version: 2021/11/06
 ! License: CC0 (Public Domain)
 
 !要素非表示フィルタ↓
@@ -64,3 +64,4 @@ youtube.com/s/player/9216d1f7/player-plasma-ias-phone-ja_JP.vflset/ad.js
 ||sp.gmossp-sp.jp^
 ||ds.advg.jp^
 ||popin.cc^
+||moatads.com^
