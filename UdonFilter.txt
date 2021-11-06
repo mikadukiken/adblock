@@ -26,6 +26,7 @@ fnjpnews.com##[class="diver_ad"]
 gendai.ismedia.jp##[class="adtag"]
 4gamer.net##[class="top_ad"]
 4gamer.net##[class="large_banner"]
+nlab.itmedia.co.jp##[class^="contents_bannar"]
 
 !ブロックフィルタ↓
 yads.c.yimg.jp/js/yads*.js
