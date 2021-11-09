@@ -3,4 +3,4 @@
 ! Version: 2021/11/09
 ! License: CC0 (Public Domain)
 
-gamewith.jp##.ad-sp-header.u-mx-a.c-sp-leaderboard-ad
+gamewith.jp##[class^="c-sp-leaderboard-ad"]
