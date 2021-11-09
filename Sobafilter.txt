@@ -4,3 +4,4 @@
 ! License: CC0 (Public Domain)
 
 gamewith.jp##[class^="c-sp-leaderboard-ad"]
+gamewith.jp##[class^="c-rectangle-ad"]
