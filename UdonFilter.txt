@@ -14,7 +14,6 @@ gamewith.jp##[id*="div-gpt-ad"]
 wikiwiki.jp##[id*="ad-container"]
 h1g.jp##[align="center"]
 h1g.jp##[style^="margin:auto"]
-yugioh-wiki.net##[id*="aswift"]
 yugioh-wiki.net##[class="adsbygoogle"]
 
 ブロックフィルタ↓
