@@ -7,7 +7,11 @@
 game8.jp##[class^="ad-wrapper"]
 gamewith.jp##[id*="div-gpt-ad"]
 wikiwiki.jp##[id*="ad-container"]
+h1g.jp##[align="center"]
 
 ブロックフィルタ↓
 ||ad-move.jp^
 ||adpon.jp^
+||amoad.com^
+||ad-stir.com^
+||zucks.net^
