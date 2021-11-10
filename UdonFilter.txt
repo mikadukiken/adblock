@@ -4,8 +4,8 @@
 ! License: CC0 (Public Domain)
 
 要素非表示↓
+game8.jp##[class^="ad-wrapper"]
 gamewith.jp##[id*="div-gpt-ad"]
-
 
 ブロックフィルタ↓
 ad-move.jp
