@@ -6,6 +6,7 @@
 要素非表示↓
 game8.jp##[class^="ad-wrapper"]
 gamewith.jp##[id*="div-gpt-ad"]
+wikiwiki.jp##[id*="ad-container"]
 
 ブロックフィルタ↓
 ad-move.jp
