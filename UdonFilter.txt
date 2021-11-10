@@ -8,6 +8,7 @@ game8.jp##[class^="ad-wrapper"]
 gamewith.jp##[id*="div-gpt-ad"]
 wikiwiki.jp##[id*="ad-container"]
 h1g.jp##[align="center"]
+h1g.jp##[style^="margin:auto"]
 
 ブロックフィルタ↓
 ||ad-move.jp^
