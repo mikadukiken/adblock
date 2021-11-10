@@ -4,6 +4,9 @@
 ! License: CC0 (Public Domain)
 
 要素非表示↓
+atwiki.jp##[id="top-ads"]
+atwiki.jp##[id="middle-ads"]
+atwiki.jp##[id="footer-ads"]
 game8.jp##[class^="ad-wrapper"]
 gamewith.jp##[id*="div-gpt-ad"]
 wikiwiki.jp##[id*="ad-container"]
