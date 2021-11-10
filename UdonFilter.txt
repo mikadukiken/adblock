@@ -9,4 +9,5 @@ gamewith.jp##[id*="div-gpt-ad"]
 wikiwiki.jp##[id*="ad-container"]
 
 ブロックフィルタ↓
-ad-move.jp
+||ad-move.jp^
+||adpon.jp^
