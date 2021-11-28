@@ -25,3 +25,4 @@
 ||amazon-adsystem.com^
 ||adservice.google.co.jp^
 ||www.googleadservices.com^
+||adingo.jp^
