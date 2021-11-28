@@ -1,23 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/11/16
-! License: CC0 (Public Domain)
+! Version: 2021/11/29
+! Licence: https://easylist.to/pages/licence.html
 
 要素非表示↓
 ##[id^="div-gpt-ad"]
-atwiki.jp##[id="top-ads"]
-atwiki.jp##[id="middle-ads"]
-atwiki.jp##[id="footer-ads"]
-atwiki.jp##[id^="gpt-atwiki_sp_autoads"]
-atwiki.jp##[id*="div-gpt-ad-atwiki"]
-game8.jp##[class^="ad-wrapper"]
-!gamewith.jp##[id*="div-gpt-ad"]
-gendai.ismedia.jp##[class="ad-in-article"]
-wikiwiki.jp##[id*="ad-container"]
-h1g.jp##[align="center"]
-h1g.jp##[style^="margin:auto"]
-m.yahoo.co.jp##[class="RichSmartAppBanner"]
-yugioh-wiki.net##[class="adsbygoogle"]
 
 ブロックフィルタ↓
 ||ad-move.jp^
