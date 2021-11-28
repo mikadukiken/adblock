@@ -1,1 +1,6 @@
+[Adblock Plus 2.0]
+! Title: わかめフィルタ
+! Version: 2021/11/29
+! Licence: CC0 (Public Domain)
+
 ||parrable.com^
