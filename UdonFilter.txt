@@ -27,3 +27,4 @@
 ||www.googleadservices.com^
 ||adingo.jp^
 ||zimg.jp^
+||adpicker.net^
