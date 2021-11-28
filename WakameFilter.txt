@@ -4,3 +4,4 @@
 ! Licence: CC0 (Public Domain)
 
 ||parrable.com^
+||www.google-analytics.com^
