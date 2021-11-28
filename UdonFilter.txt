@@ -18,3 +18,4 @@
 ||taboola.com^
 ||fam-8.net^
 ||i2ad.jp^
+||pagead2.googlesyndication.com^
