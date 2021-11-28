@@ -7,3 +7,4 @@
 ||www.google-analytics.com^
 ||treasuredata.com^
 ||karte.io^
+||im-apps.net^
