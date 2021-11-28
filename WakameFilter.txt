@@ -6,3 +6,4 @@
 ||parrable.com^
 ||www.google-analytics.com^
 ||treasuredata.com^
+||karte.io^
