@@ -5,6 +5,8 @@
 
 要素非表示↓
 ##[id^="div-gpt-ad"]
+###inbound-ad-container
+###pc-bottom-parent-ad-container
 
 ブロックフィルタ↓
 ||ad-move.jp^
