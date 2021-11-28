@@ -24,3 +24,4 @@
 ||doubleclick.net^
 ||amazon-adsystem.com^
 ||adservice.google.co.jp^
+||www.googleadservices.com^
