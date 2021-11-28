@@ -19,3 +19,6 @@
 ||fam-8.net^
 ||i2ad.jp^
 ||pagead2.googlesyndication.com^
+||doubleclick.net^
+||amazon-adsystem.com^
+||adservice.google.co.jp^
