@@ -33,3 +33,5 @@
 ||adtdp.com^$third-party
 ||adservice.google.com^$third-party
 ||googleadservices.com^$third-party
+||youtube.com/pagead/
+||google.com/pagead/
