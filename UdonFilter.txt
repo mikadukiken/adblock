@@ -32,3 +32,4 @@
 ||vrizead.com^$third-party
 ||adtdp.com^$third-party
 ||adservice.google.com^$third-party
+||googleadservices.com^$third-party
