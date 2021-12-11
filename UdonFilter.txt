@@ -3,13 +3,13 @@
 ! Version: 2021/12/12
 ! Licence: CC0 (Public Domain)
 
-要素非表示↓
+!要素非表示↓
 ##[id^="div-gpt-ad"]
 ###inbound-ad-container
 ###pc-bottom-parent-ad-container
 ##.ad-wrapper
 
-ブロックフィルタ↓
+!ブロックフィルタ↓
 ||ad-move.jp^$third-party
 ||adpon.jp^$third-party
 ||amoad.com^$third-party
@@ -31,4 +31,3 @@
 ||adpicker.net^$third-party
 ||vrizead.com^$third-party
 ||adtdp.com^$third-party
-||logly.co.jp^$third-party
