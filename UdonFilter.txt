@@ -33,5 +33,9 @@
 ||adtdp.com^$third-party
 ||adservice.google.com^$third-party
 ||googleadservices.com^$third-party
+||ads.pubmatic.com^$third-party
+||powerad.ai^$third-party
+||brainlyads.com^$third-party
+
 ||youtube.com/pagead/
 ||google.com/pagead/
