@@ -45,3 +45,5 @@
 ||prebid.org^$third-party
 ||youtube.com/pagead/
 ||google.com/pagead/
+||ad-stir.com^$third-party
+||gsspat.jp^$third-party
