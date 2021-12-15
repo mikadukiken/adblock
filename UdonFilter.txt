@@ -47,3 +47,6 @@
 ||google.com/pagead/
 ||ad-stir.com^$third-party
 ||gsspat.jp^$third-party
+||microad.jp^$third-party
+||octopuspop.com^$third-party
+||focas.jp^$third-party
