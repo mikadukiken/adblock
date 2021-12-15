@@ -13,6 +13,7 @@
 ###footer-ads
 ###overlay-ads
 ##[class="article-ads"]
+##[id^="gpt-atwiki_sp_autoads"]
 
 !ブロックフィルタ↓
 ||ad-move.jp^$third-party
