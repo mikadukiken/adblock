@@ -1,12 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/12/12
+! Version: 2021/12/15
 ! Licence: CC0 (Public Domain)
 
 !要素非表示↓
 ##[id^="div-gpt-ad"]
-###inbound-ad-container
-###pc-bottom-parent-ad-container
+##[id$="ad-container"]
 ##.ad-wrapper
 
 !ブロックフィルタ↓
