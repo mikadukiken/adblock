@@ -49,4 +49,4 @@
 ||gsspat.jp^$third-party
 ||microad.jp^$third-party
 ||octopuspop.com^$third-party
-||focas.jp^$third-party
+||adroute.focas.jp^$third-party
