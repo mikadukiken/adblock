@@ -7,6 +7,11 @@
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
 ##.ad-wrapper
+###top-ads
+###middle-ads
+###bottom-ads
+###footer-ads
+###overlay-ads
 
 !ブロックフィルタ↓
 ||ad-move.jp^$third-party
