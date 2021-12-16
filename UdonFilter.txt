@@ -14,6 +14,9 @@
 ###overlay-ads
 ##[class="article-ads"]
 ##[id^="gpt-atwiki_sp_autoads"]
+##[class="ad rect inline-rect"]
+##[class="ad middle rect2"]
+##[class="ad middle bottom"]
 
 !ブロックフィルタ↓
 ||ad-move.jp^$third-party
@@ -50,3 +53,4 @@
 ||microad.jp^$third-party
 ||octopuspop.com^$third-party
 ||adroute.focas.jp^$third-party
+||popin.cc^$third-party
