@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/12/15
+! Version: 2021/12/16
 ! Licence: CC0 (Public Domain)
 
 !要素非表示↓
