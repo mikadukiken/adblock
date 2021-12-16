@@ -7,5 +7,9 @@
 ---
 ## わかめフィルタ
 ### フィルタの方針　[中身を見る](https://raw.githubusercontent.com/mikadukiken/AdBlock-Filters/master/WakameFilter.txt)
-- トラッキングっぽいドメインをブロックするフィルタ
+- トラッキングっぽいものをブロックするフィルタ
 - 完成度低いです
+---
+## かまぼこフィルタ
+### フィルタの方針　[中身を見る]()
+- 広告じゃないけど邪魔なものを消すフィルタ
