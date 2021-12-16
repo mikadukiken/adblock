@@ -35,14 +35,13 @@
 ||doubleclick.net^$third-party
 ||amazon-adsystem.com^$third-party
 ||adservice.google.co.jp^$third-party
-||www.googleadservices.com^$third-party
+||googleadservices.com^$third-party
 ||adingo.jp^$third-party
 ||zimg.jp^$third-party
 ||adpicker.net^$third-party
 ||vrizead.com^$third-party
 ||adtdp.com^$third-party
 ||adservice.google.com^$third-party
-||googleadservices.com^$third-party
 ||ads.pubmatic.com^$third-party
 ||powerad.ai^$third-party
 ||brainlyads.com^$third-party
