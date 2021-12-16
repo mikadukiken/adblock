@@ -1,0 +1,2 @@
+##[position="広告上"]
+##[class="goods-carousel"]
