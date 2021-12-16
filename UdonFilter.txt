@@ -17,6 +17,7 @@
 ##[class="ad rect inline-rect"]
 ##[class="ad middle rect2"]
 ##[class="ad middle bottom"]
+##[class="adtag"]
 
 !ブロックフィルタ↓
 ||ad-move.jp^$third-party
@@ -54,3 +55,4 @@
 ||octopuspop.com^$third-party
 ||adroute.focas.jp^$third-party
 ||popin.cc^$third-party
+||logly.co.jp^$third-party
