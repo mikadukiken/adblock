@@ -56,3 +56,4 @@
 ||adroute.focas.jp^$third-party
 ||popin.cc^$third-party
 ||logly.co.jp^$third-party
+||adnxs.com^$third-party
