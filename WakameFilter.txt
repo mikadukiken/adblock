@@ -8,3 +8,4 @@
 ||treasuredata.com^
 ||karte.io^
 ||im-apps.net^
+||clarity.ms^
