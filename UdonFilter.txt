@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2021/12/16
+! Version: 2021/12/19
 ! Licence: CC0 (Public Domain)
 
 !要素非表示↓
@@ -18,6 +18,7 @@
 ##[class="ad middle rect2"]
 ##[class="ad middle bottom"]
 ##[class="adtag"]
+##[id^="ssp_ydn_"]
 
 !ブロックフィルタ↓
 ||ad-move.jp^$third-party
@@ -56,4 +57,5 @@
 ||octopuspop.com^$third-party
 ||popin.cc^$third-party
 ||logly.co.jp^$third-party
-
+||rd.ane.yahoo.co.jp^$third-party
+||im.c.yimg.jp/res/ydnstorage-media/
