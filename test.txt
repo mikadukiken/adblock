@@ -18,3 +18,4 @@
 ||powerad.ai^
 ||b*.yahoo.co.jp^
 ||facebook.com/tr/
+||google-analytics.com^
