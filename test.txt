@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: ななしフィルタ
+! Version: 2021/12/21
+! Licence: CC0 (Public Domain)
+
+!gamewith
 ||doubleclick.net^
 ||nend.net^
 ||pagead2.googlesyndication.com^
