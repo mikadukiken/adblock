@@ -18,6 +18,7 @@
 ||focas.jp^
 ||fam-ad.com^
 ||octopuspop.com^
+||taboola.com^
 
 ||google.co.jp/ads/
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
