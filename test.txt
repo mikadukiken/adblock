@@ -21,6 +21,7 @@
 ||taboola.com^
 ||ad-stir.com^
 ||microad.jp^
+||glssp.net^
 
 ||google.co.jp/ads/
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
