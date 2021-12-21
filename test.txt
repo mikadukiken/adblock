@@ -14,3 +14,4 @@ img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 !追跡
 ||e.clarity.ms^
 ||analytics.google.com^
+||powerad.ai^
