@@ -3,7 +3,7 @@
 ! Version: 2021/12/21
 ! Licence: CC0 (Public Domain)
 
-!広告・非表示
+!広告・空白
 !gamewith
 ||doubleclick.net^
 ||nend.net^
