@@ -14,6 +14,8 @@
 ||ad-move.jp^
 ||adpon.jp^
 ||zucks.net^
+||gsspat.jp^
+
 ||google.co.jp/ads/
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 
