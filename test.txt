@@ -12,7 +12,8 @@
 ||prebid.org^
 ||socdm.com^
 ||ad-move.jp^
-
+||adpon.jp^
+||zucks.net^
 ||google.co.jp/ads/
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 
