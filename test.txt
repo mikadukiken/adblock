@@ -4,22 +4,27 @@
 ! Licence: CC0 (Public Domain)
 
 !広告・空白
-!gamewith
 ||doubleclick.net^
 ||nend.net^
 ||pagead2.googlesyndication.com^
-||google.co.jp/ads/
+||googleadservices.com^
+||rd.ane.yahoo.co.jp^
 ||prebid.org^
+
+||google.co.jp/ads/
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
+
 ##[id^="div-gpt-ad"]
+##[id$="ad-container"]
 
 !追跡
 ||clarity.ms^
 ||analytics.google.com^
 ||powerad.ai^
 ||b*.yahoo.co.jp^
-||facebook.com/tr/
 ||google-analytics.com^
+
+||facebook.com/tr/
 ||sentry.io^
 
 !迷惑要素
