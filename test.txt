@@ -10,6 +10,8 @@
 ||googleadservices.com^
 ||rd.ane.yahoo.co.jp^
 ||prebid.org^
+||socdm.com^
+||ad-move.jp^
 
 ||google.co.jp/ads/
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
