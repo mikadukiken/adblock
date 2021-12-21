@@ -15,6 +15,7 @@
 ||adpon.jp^
 ||zucks.net^
 ||gsspat.jp^
+||focas.jp^
 
 ||google.co.jp/ads/
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
