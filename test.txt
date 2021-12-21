@@ -4,6 +4,9 @@
 ! Licence: CC0 (Public Domain)
 
 !広告・空白
+||ad-stir.com^
+||ad-move.jp^
+||adpon.jp^
 ||doubleclick.net^
 ||nend.net^
 ||pagead2.googlesyndication.com^
@@ -11,18 +14,16 @@
 ||rd.ane.yahoo.co.jp^
 ||prebid.org^
 ||socdm.com^
-||ad-move.jp^
-||adpon.jp^
 ||zucks.net^
 ||gsspat.jp^
 ||focas.jp^
 ||fam-ad.com^
 ||octopuspop.com^
 ||taboola.com^
-||ad-stir.com^
 ||microad.jp^
 ||glssp.net^
 ||gmossp-sp.jp^
+||logly.co.jp^
 
 ||google.co.jp/ads/
 
