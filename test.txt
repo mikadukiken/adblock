@@ -9,6 +9,7 @@
 ||nend.net^
 ||pagead2.googlesyndication.com^
 ||google.co.jp/ads/
+||prebid.org^
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 ##[id^="div-gpt-ad"]
 
@@ -19,3 +20,4 @@
 ||b*.yahoo.co.jp^
 ||facebook.com/tr/
 ||google-analytics.com^
+||sentry.io^
