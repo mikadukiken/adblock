@@ -25,7 +25,6 @@
 ||gmossp-sp.jp^
 
 ||google.co.jp/ads/
-||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
@@ -41,5 +40,6 @@
 ||sentry.io^
 
 !迷惑要素
+||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 ##[position="広告上"]
 ##[class="goods-carousel"]
