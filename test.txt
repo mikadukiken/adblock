@@ -8,10 +8,13 @@
 ||doubleclick.net^
 ||nend.net^
 ||pagead2.googlesyndication.com^
-img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
+||google.co.jp/ads/
+||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 ##[id^="div-gpt-ad"]
 
 !追跡
 ||clarity.ms^
 ||analytics.google.com^
 ||powerad.ai^
+||b*.yahoo.co.jp^
+||facebook.com/tr/
