@@ -21,3 +21,7 @@
 ||facebook.com/tr/
 ||google-analytics.com^
 ||sentry.io^
+
+!迷惑要素
+##[position="広告上"]
+##[class="goods-carousel"]
