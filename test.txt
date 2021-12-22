@@ -26,6 +26,7 @@
 ||logly.co.jp^
 ||popin.cc^
 ||outbrain.com^
+||smaato.net^
 
 ||google.co.jp/ads/
 
