@@ -28,6 +28,7 @@
 ||outbrain.com^
 ||smaato.net^
 ||moatads.com^
+||vidazoo.com^
 
 ||google.co.jp/ads/
 
