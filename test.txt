@@ -30,6 +30,7 @@
 ||moatads.com^
 ||vidazoo.com^
 ||openx.net^
+||impact-ad.jp^
 
 ||google.co.jp/ads/
 
