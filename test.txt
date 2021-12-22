@@ -29,6 +29,7 @@
 ||smaato.net^
 ||moatads.com^
 ||vidazoo.com^
+||openx.net^
 
 ||google.co.jp/ads/
 
