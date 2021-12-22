@@ -27,6 +27,7 @@
 ||popin.cc^
 ||outbrain.com^
 ||smaato.net^
+||moatads.com^
 
 ||google.co.jp/ads/
 
