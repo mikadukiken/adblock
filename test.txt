@@ -25,6 +25,7 @@
 ||gmossp-sp.jp^
 ||logly.co.jp^
 ||popin.cc^
+||outbrain.com^
 
 ||google.co.jp/ads/
 
