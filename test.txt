@@ -24,6 +24,7 @@
 ||glssp.net^
 ||gmossp-sp.jp^
 ||logly.co.jp^
+||popin.cc^
 
 ||google.co.jp/ads/
 
