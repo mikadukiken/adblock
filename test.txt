@@ -8,6 +8,7 @@
 ||ad-stir.com^
 ||ad-move.jp^
 ||adpon.jp^
+||adnxs.com^
 ||doubleclick.net^
 ||focas.jp^
 ||fam-ad.com^
@@ -21,6 +22,7 @@
 ||nend.net^
 ||openx.net^
 ||pagead2.googlesyndication.com^
+||pubmatic.com^
 ||rd.ane.yahoo.co.jp^
 ||prebid.org^
 ||socdm.com^
@@ -35,6 +37,7 @@
 ||webtracker.jp^
 
 ||google.co.jp/ads/
+||youtube.com/pagead/
 
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
