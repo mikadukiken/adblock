@@ -32,6 +32,7 @@
 ||openx.net^
 ||impact-ad.jp^
 ||webtracker.jp^
+||admatrix.jp^
 
 ||google.co.jp/ads/
 
