@@ -4,35 +4,35 @@
 ! Licence: CC0 (Public Domain)
 
 !広告・空白
+||admatrix.jp^
 ||ad-stir.com^
 ||ad-move.jp^
 ||adpon.jp^
 ||doubleclick.net^
-||nend.net^
-||pagead2.googlesyndication.com^
+||focas.jp^
+||fam-ad.com^
 ||googleadservices.com^
+||gsspat.jp^
+||glssp.net^
+||gmossp-sp.jp^
+||impact-ad.jp^
+||logly.co.jp^
+||moatads.com^
+||nend.net^
+||openx.net^
+||pagead2.googlesyndication.com^
 ||rd.ane.yahoo.co.jp^
 ||prebid.org^
 ||socdm.com^
 ||zucks.net^
-||gsspat.jp^
-||focas.jp^
-||fam-ad.com^
 ||octopuspop.com^
 ||taboola.com^
 ||microad.jp^
-||glssp.net^
-||gmossp-sp.jp^
-||logly.co.jp^
 ||popin.cc^
 ||outbrain.com^
 ||smaato.net^
-||moatads.com^
 ||vidazoo.com^
-||openx.net^
-||impact-ad.jp^
 ||webtracker.jp^
-||admatrix.jp^
 
 ||google.co.jp/ads/
 
