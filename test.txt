@@ -31,6 +31,7 @@
 ||vidazoo.com^
 ||openx.net^
 ||impact-ad.jp^
+||webtracker.jp^
 
 ||google.co.jp/ads/
 
