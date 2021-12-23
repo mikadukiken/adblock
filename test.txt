@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: ななしフィルタ
-! Version: 2021/12/22
+! Version: 2021/12/23
 ! Licence: CC0 (Public Domain)
 
 !広告・空白
@@ -36,6 +36,7 @@
 
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
+##[id$="-ads"]
 
 !追跡
 ||clarity.ms^
