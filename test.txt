@@ -55,6 +55,7 @@
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
 ##[id$="-ads"]
+##[class="ad"]
 ##[class^="ad-wrapper"]
 
 !追跡
