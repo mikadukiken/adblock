@@ -61,6 +61,7 @@
 ||audiencedata.net^
 ||nr-data.net^
 ||im-apps.net^
+||js-agent.newrelic.com^
 
 ||facebook.com/tr/
 ||sentry.io^
