@@ -57,6 +57,7 @@
 ||powerad.ai^
 ||b*.yahoo.co.jp^
 ||google-analytics.com^
+||audiencedata.net^
 
 ||facebook.com/tr/
 ||sentry.io^
