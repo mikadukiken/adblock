@@ -50,7 +50,7 @@
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
 ##[id$="-ads"]
-##[class="ad-wrapper"]
+##[class^="ad-wrapper"]
 
 !追跡
 ||clarity.ms^
