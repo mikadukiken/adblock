@@ -12,6 +12,7 @@
 ||adjust.com^
 ||adtdp.com^
 ||amazon-adsystem.com^
+||criteo.com^
 ||doubleclick.net^
 ||focas.jp^
 ||fam-ad.com^
