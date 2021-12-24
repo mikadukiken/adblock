@@ -57,8 +57,12 @@
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
 ##[id$="-ads"]
+##[id^="div_fam_async_"]
+##[id="ac1512199be" ]
 ##[class="ad"]
 ##[class^="ad-wrapper"]
+##[align="center"]
+||h1g.jp/sp/news/#@#[align="center"]
 
 !追跡
 ||clarity.ms^
