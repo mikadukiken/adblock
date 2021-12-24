@@ -61,8 +61,6 @@
 ##[id="ac1512199be" ]
 ##[class="ad"]
 ##[class^="ad-wrapper"]
-##[align="center"]
-||h1g.jp/sp/news/#@#[align="center"]
 
 !追跡
 ||clarity.ms^
