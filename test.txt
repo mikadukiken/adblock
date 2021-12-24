@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: ななしフィルタ
-! Version: 2021/12/23
+! Version: 2021/12/24
 ! Licence: CC0 (Public Domain)
 
 !広告・空白
@@ -17,6 +17,7 @@
 ||glssp.net^
 ||gmossp-sp.jp^
 ||impact-ad.jp^
+||ialaddin.genieesspv.jp^
 ||logly.co.jp^
 ||moatads.com^
 ||nend.net^
