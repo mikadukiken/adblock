@@ -9,9 +9,11 @@
 ||ad-move.jp^
 ||adpon.jp^
 ||adnxs.com^
+||adjust.com^
 ||doubleclick.net^
 ||focas.jp^
 ||fam-ad.com^
+||genieesspv.jp^
 ||googleadservices.com^
 ||gsspat.jp^
 ||glssp.net^
