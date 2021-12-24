@@ -12,6 +12,7 @@
 ||adjust.com^
 ||adtdp.com^
 ||amazon-adsystem.com^
+||appsflyer.com^
 ||criteo.com^
 ||doubleclick.net^
 ||focas.jp^
