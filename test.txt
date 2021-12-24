@@ -1,18 +1,23 @@
 [Adblock Plus 2.0]
 ! Title: ななしフィルタ
-! Version: 2021/12/24
+! Version: 2021/12/25
 ! Licence: CC0 (Public Domain)
 
 !広告・空白
+||a8.net^
 ||admatrix.jp^
 ||ad-stir.com^
 ||ad-move.jp^
 ||abh.jp^
 ||adpon.jp^
+||advack.net^
 ||adsafeprotected.com^
+||adskeeper.co.uk^
 ||adnxs.com^
 ||adjust.com^
 ||adtdp.com^
+||af.moshimo.com^
+||affiliate.suruga-ya.jp^
 ||amazon-adsystem.com^
 ||appsflyer.com^
 ||criteo.com^
@@ -37,7 +42,9 @@
 ||rd.ane.yahoo.co.jp^
 ||prebid.org^
 ||socdm.com^
+||steepto.com^
 ||speee-ad.jp^
+||smart-c.jp^
 ||thench.net^
 ||zucks.net^
 ||octopuspop.com^
