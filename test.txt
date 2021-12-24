@@ -58,6 +58,7 @@
 ||b*.yahoo.co.jp^
 ||google-analytics.com^
 ||audiencedata.net^
+||nr-data.net^
 
 ||facebook.com/tr/
 ||sentry.io^
