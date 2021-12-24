@@ -10,6 +10,7 @@
 ||adpon.jp^
 ||adnxs.com^
 ||adjust.com^
+||adtdp.com^
 ||amazon-adsystem.com^
 ||doubleclick.net^
 ||focas.jp^
@@ -22,6 +23,7 @@
 ||impact-ad.jp^
 ||i-mobile.co.jp^
 ||logly.co.jp^
+||ladsp.com^
 ||moatads.com^
 ||nend.net^
 ||neppa-adsv.com^
