@@ -29,6 +29,7 @@
 ||rd.ane.yahoo.co.jp^
 ||prebid.org^
 ||socdm.com^
+||thench.net^
 ||zucks.net^
 ||octopuspop.com^
 ||taboola.com^
