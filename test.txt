@@ -24,6 +24,7 @@
 ||logly.co.jp^
 ||moatads.com^
 ||nend.net^
+||neppa-adsv.com^
 ||openx.net^
 ||pagead2.googlesyndication.com^
 ||pubmatic.com^
