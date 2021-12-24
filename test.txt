@@ -59,6 +59,7 @@
 ||google-analytics.com^
 ||audiencedata.net^
 ||nr-data.net^
+||im-apps.net^
 
 ||facebook.com/tr/
 ||sentry.io^
