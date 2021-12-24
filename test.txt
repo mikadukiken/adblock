@@ -42,6 +42,8 @@
 
 ||google.co.jp/ads/
 ||youtube.com/pagead/
+||yimg.jp/images/news-app/promo/banner/
+||yimg.jp/res/ydnstorage-media/
 
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
