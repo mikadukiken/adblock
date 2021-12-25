@@ -11,6 +11,7 @@
 ||abh.jp^
 ||adpon.jp^
 ||advack.net^
+||adservice.google.com^
 ||adsafeprotected.com^
 ||adskeeper.co.uk^
 ||adnxs.com^
@@ -64,8 +65,6 @@
 ##[id^="div-gpt-ad"]
 ##[id$="ad-container"]
 ##[id$="-ads"]
-##[id^="div_fam_async_"]
-##[id="ac1512199be" ]
 ##[class="ad"]
 ##[class^="ad-wrapper"]
 
