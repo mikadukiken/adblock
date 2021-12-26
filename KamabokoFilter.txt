@@ -1,8 +1,0 @@
-[Adblock Plus 2.0]
-! Title: かまぼこフィルタ
-! Version: 2021/12/19
-! Licence: CC0 (Public Domain)
-
-##[position="広告上"]
-##[class="goods-carousel"]
-##[class="RichSmartAppBanner__link"]
