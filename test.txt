@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: ななしフィルタ
-! Version: 2021/12/25
+! Version: 2021/12/26
 ! Licence: CC0 (Public Domain)
 
 !広告・空白
@@ -81,6 +81,8 @@
 ||googletagmanager.com^
 ||facebook.com/tr/
 ||sentry.io^
+||treasuredata.com^
+||karte.io^
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
