@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: ななしフィルタ
+! Title: うどんフィルタ
 ! Version: 2021/12/26
 ! Licence: CC0 (Public Domain)
 
