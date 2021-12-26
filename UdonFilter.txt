@@ -56,6 +56,7 @@
 ||smaato.net^
 ||vidazoo.com^
 ||webtracker.jp^
+||vrizead.com^
 
 ||google.co.jp/ads/
 ||youtube.com/pagead/
