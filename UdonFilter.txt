@@ -66,6 +66,7 @@
 ##[id$="ad-container"]
 ##[id$="-ads"]
 ##[class="ad"]
+##[class="adtag"]
 ##[class^="ad-wrapper"]
 
 !追跡
