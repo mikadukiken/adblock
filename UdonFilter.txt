@@ -70,7 +70,6 @@
 ##[class="ad"]
 ##[class="adtag"]
 ##[class^="ad-wrapper"]
-##[class^="adsby"]
 
 !追跡
 ||clarity.ms^
