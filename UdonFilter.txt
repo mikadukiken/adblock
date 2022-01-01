@@ -69,6 +69,7 @@
 ##[id="Google_TC"]
 ##[id^="div-gpt-ad"]
 ##[id^="leaderboard"]
+##[id^="sp-1rec"]
 ##[id$="ad-container"]
 ##[id$="-ads"]
 ##[class="ad"]
