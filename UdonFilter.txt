@@ -68,11 +68,13 @@
 ##[id="LT"]
 ##[id="Google_TC"]
 ##[id^="div-gpt-ad"]
+##[id^="leaderboard"]
 ##[id$="ad-container"]
 ##[id$="-ads"]
 ##[class="ad"]
 ##[class="adtag"]
 ##[class^="ad-wrapper"]
+##[class^="leaderboard"]
 
 !追跡
 ||clarity.ms^
@@ -95,3 +97,4 @@
 ##[position="広告上"]
 ##[class="goods-carousel"]
 ##[class="RichSmartAppBanner__link"]
+##[class="unsupported-browser-notification-container"]
