@@ -32,6 +32,7 @@
 ||gmossp-sp.jp^
 ||impact-ad.jp^
 ||i-mobile.co.jp^
+||i2ad.jp^
 ||logly.co.jp^
 ||ladsp.com^
 ||moatads.com^
