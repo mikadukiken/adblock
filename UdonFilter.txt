@@ -76,11 +76,13 @@
 ##[id$="-ads"]
 ##[class="ad"]
 ##[class="adtag"]
+##[class="advertisement"]
 ##[class^="ad-wrapper"]
 ##[class^="in-article page-ad"]
 ##[class^="outstream-ad"]
 ##[class^="leaderboard"]
 ##[width="336"][height="280"]
+##[width="300"][height="250"]
 ##.TextAd
 ##.header-ad
 ##.rectAd
