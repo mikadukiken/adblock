@@ -86,6 +86,7 @@
 ##.TextAd
 ##.header-ad
 ##.rectAd
+##div.ad-banner
 
 !追跡
 ||clarity.ms^
