@@ -59,6 +59,7 @@
 ||webtracker.jp^
 ||rubiconproject.com^
 ||vrizead.com^
+||valuecommerce.com^
 
 ||google.co.jp/ads/
 ||youtube.com/pagead/
