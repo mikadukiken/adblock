@@ -21,6 +21,7 @@
 ||affiliate.suruga-ya.jp^
 ||amazon-adsystem.com^
 ||appsflyer.com^
+||boost-next.co.jp^
 ||criteo.com^
 ||doubleclick.net^
 ||focas.jp^
