@@ -87,6 +87,7 @@
 ##[class^="leaderboard"]
 ##[width="336"][height="280"]
 ##[width="300"][height="250"]
+##.ads-change-color
 ##.TextAd
 ##.header-ad
 ##.rectAd
