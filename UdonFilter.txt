@@ -60,6 +60,7 @@
 ||rubiconproject.com^
 ||vrizead.com^
 ||valuecommerce.com^
+||s-onetag.com^
 
 ||google.co.jp/ads/
 ||youtube.com/pagead/
