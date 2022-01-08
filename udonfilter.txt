@@ -81,6 +81,8 @@
 ##[class="ad"]
 ##[class="adtag"]
 ##[class="advertisement"]
+##[class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-sticky-ad-layout i-amphtml-built i-amphtml-layout"]
+##[class^="p-ad-dfp-"]
 ##[class^="ad-wrapper"]
 ##[class^="in-article page-ad"]
 ##[class^="outstream-ad"]
