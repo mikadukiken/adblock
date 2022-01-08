@@ -111,6 +111,7 @@
 ||treasuredata.com^
 ||karte.io^
 ||beacon.krxd.net^
+||chartbeat.net^
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
