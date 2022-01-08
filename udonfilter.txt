@@ -112,6 +112,7 @@
 ||karte.io^
 ||beacon.krxd.net^
 ||chartbeat.net^
+||effectivemeasure.net^
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
