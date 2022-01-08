@@ -122,3 +122,4 @@
 ##[class="goods-carousel"]
 ##[class="RichSmartAppBanner__link"]
 ##[class="unsupported-browser-notification-container"]
+##[class="sp-app-banner"]
