@@ -62,6 +62,7 @@
 ||vrizead.com^
 ||valuecommerce.com^
 ||s-onetag.com^
+||uncn.jp^
 
 ||google.co.jp/ads/
 ||youtube.com/pagead/
