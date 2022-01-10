@@ -120,6 +120,7 @@
 ||beacon.krxd.net^
 ||chartbeat.net^
 ||effectivemeasure.net^
+||casalemedia.com^
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
