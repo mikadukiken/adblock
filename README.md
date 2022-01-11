@@ -1,7 +1,7 @@
 ## うどんフィルタ　
 [中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
 - フィルタ制作者に憧れた素人が勢いで作ったフィルタ
-- 日本語のモバイルサイトが対象(Android)
+- 日本語のモバイル版サイトが対象(Android)
 
 ### よくある質問
 Q. フィルタの形式は？
