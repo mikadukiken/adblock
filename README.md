@@ -2,5 +2,18 @@
 [中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
 - フィルタ制作者に憧れた素人が勢いで作ったフィルタ
 - 日本語のモバイルサイトが対象(Android)
-- Adblock Plus形式のフィルタ　uBlock OriginやAdGuardなどの専用記法は使用しません
-- 筆者は広告消した後の隙間・空白が許せないタイプなので出来るだけ消します
+
+### よくある質問
+Q. フィルタの形式は？
+
+A. Adblock Plus形式です。
+
+Q.このフィルタはなにで使えばいいの？
+
+A.Androidの広告ブロック機能付きブラウザで使ってください。
+具体的にはVia・Soul Browser・Vivaldiなど、カスタムフィルタ購読機能がある物
+
+Q.uBlock Originで使っていい？
+
+A.おすすめしません。このフィルタはブラウザについてる不完全な広告ブロック機能でも動作する様に、単純なルールで書いてます。
+uBlock Originが使用出来る方は、他の優秀な作者さんのフィルタを使ってください。
