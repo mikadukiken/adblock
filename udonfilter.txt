@@ -83,6 +83,7 @@
 ##[id$="ad-container"]
 ##[id$="-ads"]
 ##[class="ad"]
+##[class="adsbygoogle"]
 ##[class="adtag"]
 ##[class="ad-rect"]
 ##[class="ad_box top"]
