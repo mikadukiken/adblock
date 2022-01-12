@@ -128,8 +128,10 @@
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
+||appmedia.jp/wp-content/themes/appmedia/lib/animation/img_atts/banner_*_top.png
 ##[position="広告上"]
 ##[class="goods-carousel"]
 ##[class="RichSmartAppBanner__link"]
 ##[class="unsupported-browser-notification-container"]
 ##[class="sp-app-banner"]
+##[class="anchor_top"]
