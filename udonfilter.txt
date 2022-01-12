@@ -63,6 +63,7 @@
 ||valuecommerce.com^
 ||s-onetag.com^
 ||uncn.jp^
+||zimg.jp^
 
 ||google.co.jp/ads/
 ||youtube.com/pagead/
@@ -84,6 +85,7 @@
 ##[class="ad-rect"]
 ##[class="ad_box top"]
 ##[class="advertisement"]
+##[class="compact-media-item"]
 ##[class="recommend_box"]
 ##[class^="p-ad-dfp-"]
 ##[class^="ad-wrapper"]
