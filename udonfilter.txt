@@ -68,6 +68,7 @@
 ||google.co.jp/ads/
 ||google.com/pagead/
 ||youtube.com/pagead/
+||youtube.com/api/stats/ads
 ||yimg.jp/images/news-app/promo/banner/
 ||yimg.jp/res/ydnstorage-media/
 ||nimg.jp/nicoad/instream/video/*.mp4
