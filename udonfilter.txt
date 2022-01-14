@@ -95,6 +95,7 @@
 ##[class^="p-ad-dfp-"]
 ##[class^="ad-wrapper"]
 ##[class^="in-article page-ad"]
+##[class^="timeline-ad_timelineAdContent"]
 ##[class^="outstream-ad"]
 ##[class^="leaderboard"]
 ##[class^="SSContainer"]
