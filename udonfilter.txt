@@ -93,6 +93,7 @@
 ##[class="amp-sticky-ad-top-padding"]
 ##[class="heading article-ads__heading"]
 ##[class="compact-media-item"]
+##[class="top_ad"]
 ##[class="recommend_box"]
 ##[class^="p-ad-dfp-"]
 ##[class^="ad-wrapper"]
