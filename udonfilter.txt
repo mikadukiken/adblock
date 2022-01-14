@@ -97,6 +97,7 @@
 ##[class^="in-article page-ad"]
 ##[class^="outstream-ad"]
 ##[class^="leaderboard"]
+##[class^="SSContainer"]
 ##[class$="e18siw4o3"]
 ##[aria-label^="広告"]
 ##[width="320"][height="100"]
