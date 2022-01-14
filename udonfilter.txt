@@ -108,6 +108,7 @@
 ##[width="704"][height="320"]
 ##[width="800"][height="320"]
 ###asumi-frame-12-3101
+###asumi-frame-35
 ##.ads-change-color
 ##.TextAd
 ##.header-ad
