@@ -88,6 +88,7 @@
 ##[class="ad-rect"]
 ##[class="ad_box top"]
 ##[class="advertisement"]
+##[class="amp-sticky-ad-top-padding"]
 ##[class="heading article-ads__heading"]
 ##[class="compact-media-item"]
 ##[class="recommend_box"]
