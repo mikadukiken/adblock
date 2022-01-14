@@ -130,6 +130,7 @@
 ||chartbeat.net^
 ||effectivemeasure.net^
 ||casalemedia.com^
+||logql.yahoo.co.jp^
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
