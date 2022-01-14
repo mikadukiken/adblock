@@ -20,6 +20,7 @@
 ||af.moshimo.com^
 ||affiliate.suruga-ya.jp^
 ||amazon-adsystem.com^
+||amoad.com^
 ||appsflyer.com^
 ||boost-next.co.jp^
 ||criteo.com^
@@ -106,6 +107,7 @@
 ##[width="300"][height="250"]
 ##[width="704"][height="320"]
 ##[width="800"][height="320"]
+###asumi-frame-12-3101
 ##.ads-change-color
 ##.TextAd
 ##.header-ad
