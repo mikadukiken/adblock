@@ -2,7 +2,7 @@
 [中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
 - フィルタ制作者に憧れた素人が勢いで作ったフィルタ
 - 日本語のモバイル版サイトが対象(Android)
-
+- 自分でどのサイトをブロックしてるかわかんなくなってきたので書き直すかも(もちフィルタさんみたいな書き方にしようかな)
 ### よくある質問
 Q1. フィルタの形式は？
 
