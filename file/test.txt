@@ -4,11 +4,12 @@
 ! Licence: CC BY-SA 3.0(https://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
 !GameWith広告
-||nend.net^
 ||doubleclick.net^
 ||googleadservices.com^
+||nend.net^
 !GameWith追跡・解析
 ||analytics.google.com^
+||bam.nr-data.net^
 ||clarity.ms^
 !GameWith迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
