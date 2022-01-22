@@ -11,5 +11,6 @@
 ||analytics.google.com^
 ||bam.nr-data.net^
 ||clarity.ms^
+||facebook.com/tr/
 !GameWith迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
