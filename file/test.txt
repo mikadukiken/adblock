@@ -1,4 +1,7 @@
-!GameWith
+!GameWith広告
 ||nend.net^
 ||doubleclick.net^
 ||googleadservices.com^
+!GameWith追跡・解析
+||analytics.google.com^
+||clarity.ms^
