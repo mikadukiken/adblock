@@ -5,3 +5,5 @@
 !GameWith追跡・解析
 ||analytics.google.com^
 ||clarity.ms^
+!GameWith迷惑要素
+||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
