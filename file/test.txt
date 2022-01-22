@@ -8,10 +8,13 @@
 ||doubleclick.net^
 ||googleadservices.com^
 ||nend.net^
+
 !GameWith追跡・解析
 ||analytics.google.com^
 ||bam.nr-data.net^
 ||clarity.ms^
 ||facebook.com/tr/
+||powerad.ai^
+
 !GameWith迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
