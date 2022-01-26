@@ -30,5 +30,7 @@ gamewith.jp##[id^="div-gpt-ad"]
 ##[class="goods-carousel"]
 
 !appmedia広告
+||ad-move.jp^
 ||socdm.com^
 ||vrizead.com^
+appmedia.jp##[class="ad_sp_header"]
