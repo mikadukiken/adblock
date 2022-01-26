@@ -34,4 +34,3 @@ gamewith.jp##[id^="div-gpt-ad"]
 ||ad-move.jp^
 ||socdm.com^
 ||vrizead.com^
-appmedia.jp##[class="ad_sp_header"]
