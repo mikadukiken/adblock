@@ -28,3 +28,7 @@ gamewith.jp##[id^="div-gpt-ad"]
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
 ##[position="広告上"]
 ##[class="goods-carousel"]
+
+!appmedia広告
+||socdm.com^
+||vrizead.com^
