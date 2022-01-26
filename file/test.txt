@@ -35,3 +35,6 @@ gamewith.jp##[id^="div-gpt-ad"]
 ||i2ad.jp^
 ||socdm.com^
 ||vrizead.com^
+
+!appmedia追跡・解析
+||organicfruitapps.com^
