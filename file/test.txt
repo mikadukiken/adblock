@@ -3,10 +3,15 @@
 ! Version: 2022/01/26
 ! Licence: CC BY-SA 3.0(https://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
-!GameWith広告
-||amoad.com^
+!Google
 ||doubleclick.net^
 ||googleadservices.com^
+
+!Yahoo!
+||b*.yahoo.co.jp^
+
+!GameWith広告
+||amoad.com^
 ||nend.net^
 
 !GameWith追跡・解析
