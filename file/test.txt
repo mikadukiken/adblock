@@ -25,3 +25,5 @@
 
 !GameWith迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
+##[position="広告上"]
+##[class="goods-carousel"]
