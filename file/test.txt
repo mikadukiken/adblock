@@ -32,5 +32,6 @@ gamewith.jp##[id^="div-gpt-ad"]
 
 !appmedia広告
 ||ad-move.jp^
+||i2ad.jp^
 ||socdm.com^
 ||vrizead.com^
