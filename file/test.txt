@@ -8,6 +8,7 @@
 ||googleadservices.com^
 ||google-analytics.com^
 ||analytics.google.com^
+||google.co.jp/ads/
 
 !Yahoo!関連
 ||b*.yahoo.co.jp^
