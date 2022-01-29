@@ -4,6 +4,7 @@
 ! Licence: CC BY-SA 3.0(https://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
 ||nend.net^$third-party
+||neppa-ad.com^$third-party
 ||vrizead.com^$third-party
 ||zucks.net^$third-party
 ||zucks.net.zimg.jp^$third-party
