@@ -1,5 +1,5 @@
 ## うどんフィルタ(一時公開停止)　
-[中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
+
 ### **注意！フィルタの方針を大幅に変更する予定**
 - フィルタ制作者に憧れた素人が勢いで作ったフィルタ
 - 日本語のモバイル版サイトが対象(Android)
