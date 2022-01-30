@@ -9,5 +9,6 @@
 ||zucks.net^$third-party
 ||zucks.net.zimg.jp^$third-party
 
+atwiki.jp##[id^="gpt-atwiki_sp_autoads"]
 appmedia.jp##.ad_sp_header
 wikiwiki.jp##[id$="ad-container"]
