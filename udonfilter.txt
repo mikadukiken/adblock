@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/01/30
+! Version: 2022/01/31
 ! Licence: CC BY-SA 3.0(https://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
+||ads.abh.jp^$third-party
 ||nend.net^$third-party
 ||neppa-ad.com^$third-party
 ||vrizead.com^$third-party
