@@ -4,6 +4,7 @@
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 ||ads.abh.jp^$third-party
+||fam-ad.com^$third-party
 ||nend.net^$third-party
 ||neppa-ad.com^$third-party
 ||vrizead.com^$third-party
