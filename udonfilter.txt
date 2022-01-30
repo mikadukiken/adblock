@@ -10,3 +10,4 @@
 ||zucks.net.zimg.jp^$third-party
 
 appmedia.jp##.ad_sp_header
+wikiwiki.jp##[id$="ad-container"]
