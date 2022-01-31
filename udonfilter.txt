@@ -5,6 +5,7 @@
 
 ||abh.jp^$third-party
 ||fam-ad.com^$third-party
+||geniee.jp^$third-party
 ||nend.net^$third-party
 ||neppa-ad.com^$third-party
 ||vrizead.com^$third-party
