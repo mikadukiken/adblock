@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/04/05
+! Version: 2022/04/07
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 !広告・空白
@@ -16,6 +16,7 @@
 ||adskeeper.co.uk^$third-party
 ||adnxs.com^$third-party
 ||adjust.com^$third-party
+||adpicker.net^$third-party
 ||adtdp.com^$third-party
 ||af.moshimo.com^$third-party
 ||affiliate.suruga-ya.jp^$third-party
@@ -120,25 +121,25 @@
 ##div.ad-banner
 
 !追跡
-||clarity.ms^
-||analytics.google.com^
-||powerad.ai^
-||b*.yahoo.co.jp^
-||google-analytics.com^
-||audiencedata.net^
-||nr-data.net^
-||im-apps.net^
-||js-agent.newrelic.com^
-||googletagmanager.com^
+||clarity.ms^$third-party
+||analytics.google.com^$third-party
+||powerad.ai^$third-party
+||b*.yahoo.co.jp^$third-party
+||google-analytics.com^$third-party
+||audiencedata.net^$third-party
+||nr-data.net^$third-party
+||im-apps.net^$third-party
+||js-agent.newrelic.com^$third-party
+||googletagmanager.com^$third-party
 ||facebook.com/tr/
-||sentry.io^
-||treasuredata.com^
-||karte.io^
-||beacon.krxd.net^
-||chartbeat.net^
-||effectivemeasure.net^
-||casalemedia.com^
-||logql.yahoo.co.jp^
+||sentry.io^$third-party
+||treasuredata.com^$third-party
+||karte.io^$third-party
+||beacon.krxd.net^$third-party
+||chartbeat.net^$third-party
+||effectivemeasure.net^$third-party
+||casalemedia.com^$third-party
+||logql.yahoo.co.jp^$third-party
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
