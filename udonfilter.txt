@@ -40,6 +40,7 @@
 ||ladsp.com^$third-party
 ||moatads.com^$third-party
 ||nend.net^$third-party
+||neppa-ad.com^$third-party
 ||neppa-adsv.com^$third-party
 ||openx.net^$third-party
 ||pagead2.googlesyndication.com^$third-party
