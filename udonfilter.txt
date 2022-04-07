@@ -142,6 +142,7 @@
 ||casalemedia.com^$third-party
 ||logql.yahoo.co.jp^$third-party
 ||parrable.com^$third-party
+||yjtag.jp^$third-party
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
