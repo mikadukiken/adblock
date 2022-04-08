@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/04/08
+! Version: 2022/04/09
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 !広告・空白
@@ -45,6 +45,7 @@
 ||openx.net^$third-party
 ||pagead2.googlesyndication.com^$third-party
 ||pubmatic.com^$third-party
+||pixon.ads-pixiv.net^$third-party
 ||rd.ane.yahoo.co.jp^$third-party
 ||prebid.org^$third-party
 ||socdm.com^$third-party
