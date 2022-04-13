@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/04/09
+! Version: 2022/04/13
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 !広告・空白
@@ -145,6 +145,7 @@
 ||logql.yahoo.co.jp^$third-party
 ||parrable.com^$third-party
 ||yjtag.jp^$third-party
+||markhor.organicfruitapps.com/analytics/
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
