@@ -27,6 +27,7 @@
 ||criteo.com^$third-party
 ||criteo.net^$third-party
 ||doubleclick.net^$third-party
+||felmat.net^$third-party
 ||focas.jp^$third-party
 ||fam-ad.com^$third-party
 ||genieesspv.jp^$third-party
