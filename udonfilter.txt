@@ -62,6 +62,7 @@
 ||popin.cc^$third-party
 ||tapad.com^$third-party
 ||outbrain.com^$third-party
+||rentracks.jp^$third-party
 ||smaato.net^$third-party
 ||vidazoo.com^$third-party
 ||webtracker.jp^$third-party
