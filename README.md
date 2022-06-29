@@ -2,6 +2,8 @@
 
 フィルタ制作者に憧れた素人が作ったフィルタ
 
+自分用に不定期で更新
+
 [中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
 
 ### よくある質問
