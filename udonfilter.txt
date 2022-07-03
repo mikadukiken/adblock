@@ -30,6 +30,7 @@
 ||felmat.net^$third-party
 ||focas.jp^$third-party
 ||fam-ad.com^$third-party
+||flux-cdn.com^$third-party
 ||genieesspv.jp^$third-party
 ||geniee.jp^$third-party
 ||googleadservices.com^$third-party
