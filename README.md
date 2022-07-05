@@ -5,7 +5,9 @@
 自分用に不定期で更新
 
 [中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
+###フィルタの方針
 
+・日本語のモバイル版サイトが対象
 ### よくある質問
 Q1. フィルタの形式は？
 
