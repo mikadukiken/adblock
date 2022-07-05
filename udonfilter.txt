@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/07/02
+! Version: 2022/07/05
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 !広告・空白
@@ -9,6 +9,7 @@
 ||ad-stir.com^$third-party
 ||ad-move.jp^$third-party
 ||abh.jp^$third-party
+||adingo.jp^$third-party
 ||adpon.jp^$third-party
 ||advack.net^$third-party
 ||adservice.google.com^$third-party
@@ -30,6 +31,7 @@
 ||felmat.net^$third-party
 ||focas.jp^$third-party
 ||fam-ad.com^$third-party
+||fam-8.net^$third-party
 ||flux-cdn.com^$third-party
 ||genieesspv.jp^$third-party
 ||geniee.jp^$third-party
