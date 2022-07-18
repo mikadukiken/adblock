@@ -78,6 +78,7 @@
 ||uncn.jp^$third-party
 ||zimg.jp^$third-party
 
+||img.gamewith.jp/ad/*.jpg
 ||img.gamewith.jp/ad/*.png
 ||google.co.jp/ads/
 ||google.com/pagead/
