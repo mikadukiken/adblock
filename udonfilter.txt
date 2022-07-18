@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/07/18
+! Version: 2022/07/19
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 !広告・空白
@@ -118,6 +118,7 @@
 ##[class^="outstream-ad"]
 ##[class^="leaderboard"]
 ##[class^="SSContainer"]
+##[class^="walkthrough-ad-ranking-game"]
 ##[class$="e18siw4o3"]
 ##[aria-label^="広告"]
 ##[width="320"][height="100"]
@@ -161,7 +162,7 @@ gamewith.jp##.ad-header-creative-wrapper
 
 !迷惑要素
 ||img.gamewith.jp/walkthrough/tools/goods/fortnite/*.png
-||appmedia.jp/wp-content/themes/appmedia/lib/animation/img_atts/banner_*_top.png
+!||appmedia.jp/wp-content/themes/appmedia/lib/animation/img_atts/banner_*_top.png
 ##[position="広告上"]
 ##[class="goods-carousel"]
 ##[class="RichSmartAppBanner__link"]
