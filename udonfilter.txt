@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/07/19
+! Version: 2022/07/23
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 !広告・空白
@@ -129,6 +129,7 @@
 ###asumi-frame-12-3101
 ###asumi-frame-35
 ##.ads-change-color
+##.bannar
 ##.TextAd
 ##.header-ad
 ##.rectAd
