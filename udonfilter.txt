@@ -25,6 +25,7 @@
 ||amazon-adsystem.com^$third-party
 ||amoad.com^$third-party
 ||appsflyer.com^$third-party
+||adsrvr.org^$third-party
 ||boost-next.co.jp^$third-party
 ||criteo.com^$third-party
 ||criteo.net^$third-party
