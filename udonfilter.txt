@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: うどんフィルタ
-! Version: 2022/08/02
+! Version: 2022/09/23
 ! Licence: CC BY-NC 4.0(https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
 
 !広告・空白
@@ -47,6 +47,7 @@
 ||logly.co.jp^$third-party
 ||ladsp.com^$third-party
 ||moatads.com^$third-party
+||match.adsrvr.org^$third-party
 ||nend.net^$third-party
 ||neppa-ad.com^$third-party
 ||neppa-adsv.com^$third-party
@@ -79,6 +80,7 @@
 ||uncn.jp^$third-party
 ||zimg.jp^$third-party
 ||teads.tv^$third-party
+||track1.aniview.com^$third-party
 
 ||img.gamewith.jp/ad/*.jpg
 ||img.gamewith.jp/ad/*.png
@@ -112,6 +114,7 @@
 ##[class="compact-media-item"]
 ##[class="top_ad"]
 ##[class="recommend_box"]
+##[class="l-popup"]
 ##[class^="ad-container"]
 ##[class^="p-ad-dfp-"]
 ##[class^="ad-wrapper"]
