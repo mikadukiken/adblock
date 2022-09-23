@@ -94,6 +94,7 @@
 
 ##[id="LB"]
 ##[id="LT"]
+##[id="share"]
 ##[id="Google_TC"]
 ##[id^="div-gpt-ad"]
 ##[id^="leaderboard"]
