@@ -147,6 +147,7 @@ gamewith.jp##.ad-header-creative-wrapper
 gamewith.jp##._native_ad_item
 gamewith.jp##.gtm-ga4-walkthrough-imp-event.walkthrough-ad-ranking-game
 gamewith.jp##.gtm-ga4-walkthrough-imp-event.walkthrough-hikari.c-box
+gamewith.jp##.u-bgc-white
 
 !その他
 wikiwiki.jp##[id$=-ad-container]
