@@ -142,6 +142,7 @@
 !GameWith
 ||img.gamewith.jp/ad/
 ||img.gamewith.jp/bookmark/chrome.png
+||img.gamewith.jp/walkthrough/discord/banner.png
 gamewith.jp##.ad-header-creative-wrapper
 gamewith.jp##._native_ad_item
 gamewith.jp##.gtm-ga4-walkthrough-imp-event.walkthrough-ad-ranking-game
