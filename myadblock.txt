@@ -150,12 +150,12 @@ gamewith.jp##.gtm-ga4-walkthrough-imp-event.walkthrough-hikari.c-box
 gamewith.jp##[class="u-bgc-white"]
 
 !その他
+yugioh-wiki.net##.adsbygoogle
+game8.jp##[class^="ad-wrapper"]
 wikiwiki.jp##[id$=-ad-container]
 appmedia.jp##center
 *##[id^="div-gpt-ad"]
 ||im.c.yimg.jp/res/ydnstorage-media/*.jpg
-
-
 ||poiful.com^
 
 
