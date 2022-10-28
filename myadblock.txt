@@ -152,7 +152,7 @@ gamewith.jp##[class="u-bgc-white"]
 ||assets.game8.jp/public/banner_*.jpg
 ||assets.game8.jp/uploads/*.jpg
 ||assets.game8.jp/uploads/*.png
-game8.jp##[class^="ad-wrapper"]
+game8.jp##.ad-wrapper
 game8.jp##[id="js-sp_stores_link__sp_archive_under"]
 game8.jp##[class="c-richlp__wrapper"]
 !その他
