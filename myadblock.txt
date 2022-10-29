@@ -154,6 +154,7 @@ gamewith.jp##[class="u-bgc-white"]
 ||assets.game8.jp/uploads/*.png
 ||img.game8.jp/3959303/03f9cd1063486f5d65a4276b311b1426.jpeg/show
 game8.jp###g8-ad-placement-sp_under_archive_ab
+game8.jp###google_ads_iframe_
 game8.jp##.ad-skyflag-wrapper
 game8.jp##.ad-wrapper
 game8.jp##[id="js-sp_stores_link__sp_archive_under"]
