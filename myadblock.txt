@@ -149,17 +149,17 @@ gamewith.jp##.gtm-ga4-walkthrough-imp-event.walkthrough-ad-ranking-game
 gamewith.jp##.gtm-ga4-walkthrough-imp-event.walkthrough-hikari.c-box
 gamewith.jp##[class="u-bgc-white"]
 !Game8
-||assets.game8.jp/public/banner_*.jpg
-||assets.game8.jp/uploads/*.jpg
-||assets.game8.jp/uploads/*.png
-||img.game8.jp/3959303/03f9cd1063486f5d65a4276b311b1426.jpeg/show
-game8.jp###g8-ad-placement-sp_under_archive_ab
-game8.jp###google_ads_iframe_
-game8.jp##.ad-skyflag-wrapper
-game8.jp##.ad-wrapper
-game8.jp##[id="js-sp_stores_link__sp_archive_under"]
-game8.jp##[class="c-richlp__wrapper"]
-game8.jp##[class="track_mario a-header--2"]
+!||assets.game8.jp/public/banner_*.jpg
+!||assets.game8.jp/uploads/*.jpg
+!||assets.game8.jp/uploads/*.png
+!||img.game8.jp/3959303/03f9cd1063486f5d65a4276b311b1426.jpeg/show
+!game8.jp###g8-ad-placement-sp_under_archive_ab
+!game8.jp###google_ads_iframe_
+!game8.jp##.ad-skyflag-wrapper
+!game8.jp##.ad-wrapper
+!game8.jp##[id="js-sp_stores_link__sp_archive_under"]
+!game8.jp##[class="c-richlp__wrapper"]
+!game8.jp##[class="track_mario a-header--2"]
 !その他
 yugioh-wiki.net##.adsbygoogle
 wikiwiki.jp##[id$=-ad-container]
