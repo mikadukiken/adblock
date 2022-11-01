@@ -149,7 +149,7 @@ game8.jp##.ad-wrapper
 yugioh-wiki.net##.adsbygoogle
 wikiwiki.jp##[id$=-ad-container]
 appmedia.jp##center
-*##[id^="div-gpt-ad"]
+##[id^="div-gpt-ad"]
 ||im.c.yimg.jp/res/ydnstorage-media/*.jpg
 ||poiful.com^
 
