@@ -145,6 +145,10 @@
 gamewith.jp##.ad-header-creative-wrapper
 !Game8
 game8.jp##.ad-wrapper
+!kamigame.jp
+kamigame.jp###ad_footer
+kamigame.jp###ad_under_table_of_contents
+kamigame.jp###ad_above_breadcrumbs
 !その他
 yugioh-wiki.net##.adsbygoogle
 wikiwiki.jp##[id$=-ad-container]
