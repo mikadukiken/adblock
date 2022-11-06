@@ -165,6 +165,7 @@ altema.jp##div[class="new_koukokuwaku_wrapper"]
 yugioh-wiki.net##.adsbygoogle
 wikiwiki.jp##[id$=-ad-container]
 appmedia.jp##center
+appmedia.jp##[class='ad_sp_header']
 ##[id^="div-gpt-ad"]
 ||im.c.yimg.jp/res/ydnstorage-media/*.jpg
 ||poiful.com^
