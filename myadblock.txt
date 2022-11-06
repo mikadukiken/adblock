@@ -158,6 +158,9 @@ game8.jp##.ad-wrapper
 kamigame.jp###ad_footer
 kamigame.jp###ad_under_table_of_contents
 kamigame.jp###ad_above_breadcrumbs
+!altema.jp
+||altema.jp/js/input_hide_ad.js?20191129
+altema.jp##div[class="new_koukokuwaku_wrapper"]
 !その他
 yugioh-wiki.net##.adsbygoogle
 wikiwiki.jp##[id$=-ad-container]
