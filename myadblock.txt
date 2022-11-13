@@ -167,6 +167,7 @@ wikiwiki.jp##[id$=-ad-container]
 appmedia.jp##center
 appmedia.jp##[class='ad_sp_header']
 ##[id^="div-gpt-ad"]
+##[class="adsense"]
 ||im.c.yimg.jp/res/ydnstorage-media/*.jpg
 ||poiful.com^
 
