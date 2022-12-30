@@ -1,3 +1,7 @@
 !gamewith.jp
+nend.net
 ||img.gamewith.jp/ad/
 ||img.gamewith.jp/bookmark/chrome.png
+
+gamewith.jp##.ad-header-creative-wrapper
+gamewith.jp##._native_ad_item
