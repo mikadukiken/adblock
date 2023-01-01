@@ -5,3 +5,7 @@
 gamewith.jp##[id^="div-gpt-ad"]
 gamewith.jp##.ad-header-creative-wrapper
 gamewith.jp##._native_ad_item
+
+!game8.jp
+game8.jp##[class^="ad-wrapper"]
+game8.jp##[class^="l-jack__top"]
