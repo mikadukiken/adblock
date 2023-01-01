@@ -2,7 +2,6 @@
 ||nend.net^$third-party
 ||img.gamewith.jp/ad/*.mp4
 ||img.gamewith.jp/bookmark/chrome.png
-
 gamewith.jp##[id^="div-gpt-ad"]
 gamewith.jp##.ad-header-creative-wrapper
 gamewith.jp##._native_ad_item
