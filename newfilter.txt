@@ -13,3 +13,6 @@ game8.jp##[class^="l-jack__top"]
 !appmedia.jp
 appmedia.jp##[id^="div-gpt-ad"]
 appmedia.jp##[id^="google_ads_iframe_"]
+
+!wikiwiki.jp
+wikiwiki.jp##[id$=-ad-container]
