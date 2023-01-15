@@ -31,3 +31,4 @@ uBlock Originが使用出来る方は、他の優秀な作者さんのフィル�
 
 ### 不具合報告
 消えない広告や誤爆は[こちら](https://jbbs.shitaraba.net/bbs/read.cgi/internet/25764/1642314720/)にどうぞ
+(形から入るタイプ)
