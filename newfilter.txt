@@ -1,4 +1,5 @@
 !広告ドメイン
+||ad-stir.com^$third-party
 ||doubleclick.net^$third-party
 ||nend.net^$third-party
 ||pagead2.googlesyndication.com^$third-party
