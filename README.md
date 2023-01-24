@@ -4,6 +4,8 @@
 
 自分用に不定期で更新
 
+最低限の広告と空白だけ消す(追跡と迷惑要素は触らない)フィルタ作りたい
+
 [中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
 
 ### フィルタの方針
