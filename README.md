@@ -4,8 +4,6 @@
 
 自分用に不定期で更新
 
-最低限の広告と空白だけ消す(追跡と迷惑要素は触らない)フィルタ作りたい
-
 [中身を見る](https://raw.githubusercontent.com/mikadukiken/adblock/master/udonfilter.txt)
 
 ### フィルタの方針
@@ -29,8 +27,3 @@ Q3.uBlock Originで使っていい？
 
 A3.おすすめしません。このフィルタはブラウザ内蔵の不完全な広告ブロック機能でも動作する様に、単純なルールで書いてます。(というか簡単なルールしか書けないｗ)
 uBlock Originが使用出来る方は、他の優秀な作者さんのフィルタを使ってください。
-
-
-### 不具合報告
-消えない広告や誤爆は[こちら](https://jbbs.shitaraba.net/bbs/read.cgi/internet/25764/1642314720/)にどうぞ
-(形から入るタイプ)
