@@ -1,0 +1,4 @@
+!gamewith
+||nend.net^$third-party
+gamewith.jp##[class^="_native_ad_item"]
+|assets.gamewith.jp/js/dist/jp/gamewith/ad/index.js
