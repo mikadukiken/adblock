@@ -1,4 +1,5 @@
+!gamewith.jp
 ||nend.net^$third-party
+https://img.gamewith.jp/bookmark/chrome.png
 gamewith.jp##[class^="_native_ad_item"]
-|assets.gamewith.jp/js/dist/jp/gamewith/ad/index.js
-##[class^="ad-wrapper"]
+
