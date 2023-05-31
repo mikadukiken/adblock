@@ -21,7 +21,7 @@ A1. Adblock Plus形式です。
 Q2.このフィルタはなにで使えばいいの？
 
 A2.Androidの広告ブロック機能付きブラウザで使ってください。
-具体的にはVia・Soul Browser・Vivaldiなど、カスタムフィルタ購読機能がある物
+具体的にはBerry Browser・Soul Browser・Vivaldiなど、カスタムフィルタ購読機能がある物
 
 Q3.uBlock Originで使っていい？
 
